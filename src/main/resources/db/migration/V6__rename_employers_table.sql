@@ -1,1 +1,1 @@
-RENAME TABLE employers TO clients;
+RENAME TABLE employers TO employers;

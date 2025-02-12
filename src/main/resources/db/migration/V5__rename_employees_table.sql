@@ -1,1 +1,1 @@
-RENAME TABLE employees TO staff;
+RENAME TABLE employees TO employees;

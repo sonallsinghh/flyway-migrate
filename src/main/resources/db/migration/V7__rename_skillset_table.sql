@@ -1,1 +1,1 @@
-RENAME TABLE skillset TO skillsets;
+RENAME TABLE skillset TO skillset;

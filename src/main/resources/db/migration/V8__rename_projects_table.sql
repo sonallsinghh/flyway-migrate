@@ -1,1 +1,1 @@
-RENAME TABLE proejcts TO works;
+RENAME TABLE proejcts TO projects;

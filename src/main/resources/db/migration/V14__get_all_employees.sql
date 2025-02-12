@@ -1,0 +1,8 @@
+DELIMITER $$
+
+CREATE PROCEDURE GetAllEmployees()
+BEGIN
+    SELECT * FROM Employees;
+END $$
+
+DELIMITER ;
