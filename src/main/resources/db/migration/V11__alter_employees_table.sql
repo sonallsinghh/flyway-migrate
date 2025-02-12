@@ -1,0 +1,1 @@
+ALTER TABLE employeees MODIFY COLUMN role VARCHAR(500);

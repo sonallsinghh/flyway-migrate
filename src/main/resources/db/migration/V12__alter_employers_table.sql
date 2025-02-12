@@ -1,0 +1,1 @@
+ALTER TABLE employers MODIFY COLUMN email VARCHAR(500);

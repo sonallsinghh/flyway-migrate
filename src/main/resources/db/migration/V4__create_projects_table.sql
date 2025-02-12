@@ -1,0 +1,4 @@
+CREATE TABLE Projects (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    projectName VARCHAR(255) NOT NULL
+);
