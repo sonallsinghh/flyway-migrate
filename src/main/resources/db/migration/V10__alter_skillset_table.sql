@@ -1,0 +1,1 @@
+ALTER TABLE skillset MODIFY COLUMN skillName VARCHAR(500);
