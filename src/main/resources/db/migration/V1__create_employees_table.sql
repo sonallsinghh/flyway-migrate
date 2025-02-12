@@ -1,0 +1,7 @@
+CREATE TABLE employees (
+  id INTEGER PRIMARY KEY,
+  name VARCHAR(255) NOT NULL,
+  email VARCHAR(255) NOT NULL,
+  role VARCHAR(255) NOT NULL,
+  department VARCHAR(255) NOT NULL
+);
